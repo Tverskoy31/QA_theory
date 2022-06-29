@@ -1,0 +1,18 @@
+Разберитесь с этими видами тестирования
+
+Black-white-gray box testing
+Functionality testing? (not Functional)
+Regression testing
+What is the performance testing? Load? Stress testing? Volume (non-functional)?
+Ad hoc, Exploratory
+Define User Acceptance Test? Beta-testing?
+Smoke testing? (superficial release/build acceptance; sanity check)
+What is Unit testing?
+Integration testing? System testing? End-to-End testing?
+What is API Testing?
+Test harness (automated test framework).
+Browser compatibility testing (cross-browser)?
+Operating system (cross-platform) Compatibility?
+Define Equivalence class? Equivalence partitioning? Boundary testing? Boundary Value Analysis?
+What is error handling testing (exception handling)?
+Localization and internationalization testing
